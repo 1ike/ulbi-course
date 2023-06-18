@@ -8,3 +8,7 @@ s: start
 build:
 	npm run build:prod
 b: build
+
+storybook:
+	npm run storybook
+sb: storybook
